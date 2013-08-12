@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:project xmlns:arch="http://ochre.lib.uchicago.edu/schema/Project/Project.xsd" xmlns:oc="http://opencontext.org/schema/project_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="02594C48-7497-40D7-11AE-AB942DC513B8" ownedBy="02594C48-7497-40D7-11AE-AB942DC513B8">
+  <arch:name>
+    <arch:string>Çatalhöyük Area TP Zooarchaeology</arch:string>
+  </arch:name>
+  <oc:manage_info>
+    <oc:queryVal>%C3%87atalh%C3%B6y%C3%BCk+Area+TP+Zooarchaeology</oc:queryVal>
+    <oc:rootPath>/Turkey</oc:rootPath>
+    <oc:spaceCount>0</oc:spaceCount>
+    <oc:mediaCount>0</oc:mediaCount>
+    <oc:diaryCount>0</oc:diaryCount>
+    <oc:projGeoPoint> </oc:projGeoPoint>
+  </oc:manage_info>
+  <arch:links>
+    <arch:docID type="person" info="Project Participant">94AA8533-450D-4FC7-4DC1-3CB12A3FE52C</arch:docID>
+    <arch:docID type="person" info="Project Participant">193BC120-D87D-4122-1877-A8BA4999BCDA</arch:docID>
+    <arch:docID type="person" info="Project Participant">D210F391-6424-4E14-FA35-F4F5C4627EA2</arch:docID>
+    <arch:docID type="person" info="Project Participant">7CDF91A1-3230-41FB-274A-E927734F8DE6</arch:docID>
+    <arch:docID type="person" info="Project Participant">C5F71C79-0395-4E6A-DFE9-52B2D5215113</arch:docID>
+    <arch:docID type="person" info="Project Participant">E7319719-528C-44C2-6065-27D56C0F10B7</arch:docID>
+    <arch:docID type="person" info="Project Participant">2664C6A9-3867-4EC7-C7A6-F60C688E7008</arch:docID>
+    <arch:docID type="person" info="Project Participant">419D3DF9-C307-43D2-359B-B8BC85B1BFE7</arch:docID>
+    <arch:docID type="person" info="Project Participant">BC38D35D-D019-440D-9441-B1A97EA2F259</arch:docID>
+    <arch:docID type="person" info="Project Participant">F00AD097-C4BD-4C66-67EB-195C4B7232C1</arch:docID>
+    <arch:docID type="person" info="Project Participant">7D16C346-8ABE-4F83-89C2-DDD2405AE861</arch:docID>
+    <arch:docID type="person" info="Project Participant">00590B69-97BF-4955-B712-04482BEDEB77</arch:docID>
+    <arch:docID type="person" info="Project Participant">777C589D-574B-40C2-2C86-806F98149F77</arch:docID>
+    <arch:docID type="person" info="Project Participant">FD2D702F-1EC6-4865-CCCC-DA8AF166CC83</arch:docID>
+    <oc:person_links>
+      <oc:link href="http://opencontext.org/persons/94AA8533-450D-4FC7-4DC1-3CB12A3FE52C">
+        <oc:name>Nerissa Russell</oc:name>
+        <oc:id>94AA8533-450D-4FC7-4DC1-3CB12A3FE52C</oc:id>
+        <oc:relation>Project Participant</oc:relation>
+      </oc:link>
+      <oc:link href="http://opencontext.org/persons/193BC120-D87D-4122-1877-A8BA4999BCDA">
+        <oc:name>Louise Martin</oc:name>
+        <oc:id>193BC120-D87D-4122-1877-A8BA4999BCDA</oc:id>
+        <oc:relation>Project Participant</oc:relation>
+      </oc:link>
+      <oc:link href="http://opencontext.org/persons/D210F391-6424-4E14-FA35-F4F5C4627EA2">
+        <oc:name>Sheelagh Frame</oc:name>
+        <oc:id>D210F391-6424-4E14-FA35-F4F5C4627EA2</oc:id>
+        <oc:relation>Project Participant</oc:relation>
+      </oc:link>
+      <oc:link href="http://opencontext.org/persons/7CDF91A1-3230-41FB-274A-E927734F8DE6">
+        <oc:name>Katheryn Twiss</oc:name>
+        <oc:id>7CDF91A1-3230-41FB-274A-E927734F8DE6</oc:id>
+        <oc:relation>Project Participant</oc:relation>
+      </oc:link>
+      <oc:link href="http://opencontext.org/persons/C5F71C79-0395-4E6A-DFE9-52B2D5215113">
+        <oc:name>Kamilla Pawlowska</oc:name>
+        <oc:id>C5F71C79-0395-4E6A-DFE9-52B2D5215113</oc:id>
+        <oc:relation>Project Participant</oc:relation>
+      </oc:link>
+      <oc:link href="http://opencontext.org/persons/E7319719-528C-44C2-6065-27D56C0F10B7">
+        <oc:name>Claire Christensen</oc:name>
+        <oc:id>E7319719-528C-44C2-6065-27D56C0F10B7</oc:id>
+        <oc:relation>Project Participant</oc:relation>
+      </oc:link>
+      <oc:link href="http://opencontext.org/persons/2664C6A9-3867-4EC7-C7A6-F60C688E7008">
+        <oc:name>David Orton</oc:name>
+        <oc:id>2664C6A9-3867-4EC7-C7A6-F60C688E7008</oc:id>
+        <oc:relation>Project Participant</oc:relation>
+      </oc:link>
+      <oc:link href="http://opencontext.org/persons/419D3DF9-C307-43D2-359B-B8BC85B1BFE7">
+        <oc:name>Liz Henton</oc:name>
+        <oc:id>419D3DF9-C307-43D2-359B-B8BC85B1BFE7</oc:id>
+        <oc:relation>Project Participant</oc:relation>
+      </oc:link>
+      <oc:link href="http://opencontext.org/persons/BC38D35D-D019-440D-9441-B1A97EA2F259">
+        <oc:name>Arzu Demirergi</oc:name>
+        <oc:id>BC38D35D-D019-440D-9441-B1A97EA2F259</oc:id>
+        <oc:relation>Project Participant</oc:relation>
+      </oc:link>
+      <oc:link href="http://opencontext.org/persons/F00AD097-C4BD-4C66-67EB-195C4B7232C1">
+        <oc:name>Ian Cameron</oc:name>
+        <oc:id>F00AD097-C4BD-4C66-67EB-195C4B7232C1</oc:id>
+        <oc:relation>Project Participant</oc:relation>
+      </oc:link>
+      <oc:link href="http://opencontext.org/persons/7D16C346-8ABE-4F83-89C2-DDD2405AE861">
+        <oc:name>Rebecca Daly</oc:name>
+        <oc:id>7D16C346-8ABE-4F83-89C2-DDD2405AE861</oc:id>
+        <oc:relation>Project Participant</oc:relation>
+      </oc:link>
+      <oc:link href="http://opencontext.org/persons/00590B69-97BF-4955-B712-04482BEDEB77">
+        <oc:name>Banu Aydinuloglu</oc:name>
+        <oc:id>00590B69-97BF-4955-B712-04482BEDEB77</oc:id>
+        <oc:relation>Project Participant</oc:relation>
+      </oc:link>
+      <oc:link href="http://opencontext.org/persons/777C589D-574B-40C2-2C86-806F98149F77">
+        <oc:name>Levent Atıcı</oc:name>
+        <oc:id>777C589D-574B-40C2-2C86-806F98149F77</oc:id>
+        <oc:relation>Project Participant</oc:relation>
+      </oc:link>
+      <oc:link href="http://opencontext.org/persons/FD2D702F-1EC6-4865-CCCC-DA8AF166CC83">
+        <oc:name>Arek Marciniak</oc:name>
+        <oc:id>FD2D702F-1EC6-4865-CCCC-DA8AF166CC83</oc:id>
+        <oc:relation>Project Participant</oc:relation>
+      </oc:link>
+    </oc:person_links>
+  </arch:links>
+  <arch:notes>
+    <arch:note type="short_des">
+      <arch:string type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">Faunal Data from Area TP of Çatalhöyük, Turkey</div>
+      </arch:string>
+    </arch:note>
+    <arch:note type="long_des">
+      <arch:string type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <div>
+        
+        <h4>Introduction</h4>
+        <p>This is a large dataset extracted for the purpose of an Anatolian Neolithic zooarchaeological meta-analysis. It is part of an even larger database containing all the zooarchaeological results thus far recorded from the UNESCO World Heritage Site of Çatalhöyük, Konya province, Turkey. The data presented here is the result of almost twenty years' work (1995-2012) by several main analysts and numerous students and assistants, but is neither complete nor final. Accordingly, users are requested (a) to take care to cite the correct analysts for each area, and (b) to read the associated documentation carefully in order to avoid misinterpretation.</p>
+        
+        <h4>Methodology</h4>
+        
+        <p>The Çatalhöyük excavation and recording system has developed over the course of the project. Rather than repeating its history here, users are advised to read the reports listed below. The process of selecting data for the current analysis is explained below, while the field descriptions provide some information on recording methodology.</p>
+        
+        <h4>Potential Applications of Data</h4>
+        
+        <p>This dataset is designed primarily for analyses of NISP, herd structure, and biometry in a large and long-lived Neolithic settlement. It's availability online is aimed at facilitating inter-site comparisons within Central Anatolia and the wider region.</p>
+        
+        <h4>Represented Excavation Areas, Recording, and Sampling</h4>
+        <p>The data available in this project represent specimen documented for Çatalhöyük Area TP. Zooarchaeological data for other areas of the site are presented in <a href="http://opencontext.org/projects/1B426F7C-99EC-4322-4069-E8DBD927CCF1">another project</a> in Open Context.</p>
+        
+        <h4>Bibliography</h4>
+        <div resource="http://opencontext.org/subjects/E44A115A-DFCB-4971-6750-40955DF2C062">    
+            
+            <div id="pub-2005-1" rel="dcterms:isReferencedBy" class="biblio-item">
+                <a style="display:none;" href="#pub-2005-1"/>
+                <div typeof="dcterms:BibliographicResource bibo:BookSection" resource="#pub-2005-1">
+                    <div property="dcterms:bibliographicCitation">
+                        <p class="authors">Russell, N. and L. Martin</p>
+                        <div>
+                            <div class="pub-date">2005</div>
+                            <div class="ref-title-pub">'The Çatalhöyük mammal remains. <span class="collection-title">Inhabiting Çatalhöyük: reports from the 1995-1999 seasons</span>, edited by I. Hodder, pp. 35-95. Cambridge: McDonald Institute.</div>
+                            <div class="ref-end"/>
+                        </div>
+                    </div>
+                    <div class="ref-links">
+                        [<a rel="dcterms:hasVersion" href="http://www.academia.edu/151746/The_Catalhoyuk_mammal_remains">Open Access</a>]
+                        [<a rel="dcterms:isPartOf" href="http://www.worldcat.org/oclc/57639757">WorldCat</a>]
+                    </div>
+                </div>
+            </div>
+            
+        </div>    
+        
+    </div>
+        </div>
+      </arch:string>
+    </arch:note>
+  </arch:notes>
+  <oc:metadata>
+    <dc:title>Çatalhöyük Area TP Zooarchaeology: (Overview)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2013-08-11</dc:date>
+    <dc:subject>Area TP</dc:subject>
+    <dc:subject>Animal Economy</dc:subject>
+    <dc:subject>Çatalhöyük</dc:subject>
+    <dc:subject>Central Anatolia</dc:subject>
+    <dc:subject>Neolithic</dc:subject>
+    <dc:subject>Mammal Remains</dc:subject>
+    <dc:subject>Faunal data</dc:subject>
+    <dc:subject>Zooarchaeology</dc:subject>
+    <dc:subject>Turkey</dc:subject>
+    <dc:creator href="http://opencontext.org/persons/FD2D702F-1EC6-4865-CCCC-DA8AF166CC83">Arek Marciniak</dc:creator>
+    <dc:identifier>http://opencontext.org/projects/02594C48-7497-40D7-11AE-AB942DC513B8</dc:identifier>
+    <dc:identifier type="doi" href="http://dx.doi.org/10.6078/M7B8562H">10.6078/M7B8562H</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/02594C48-7497-40D7-11AE-AB942DC513B8">Çatalhöyük Area TP Zooarchaeology</oc:project_name>
+    <oc:pub_date>2013-08-11T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=%C3%87atalh%C3%B6y%C3%BCk+Area+TP+Zooarchaeology%3A+%28Overview%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=Area+TP&amp;rft.subject=Animal+Economy&amp;rft.subject=%C3%87atalh%C3%B6y%C3%BCk&amp;rft.subject=Central+Anatolia&amp;rft.subject=Neolithic&amp;rft.subject=Mammal+Remains&amp;rft.subject=Faunal+data&amp;rft.subject=Zooarchaeology&amp;rft.subject=Turkey&amp;rft.creator=Arek+Marciniak&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fprojects%2F02594C48-7497-40D7-11AE-AB942DC513B8&amp;rft.identifier=DOI%3A10.6078%2FM7B8562H</oc:coins>
+    <oc:copyright_lic href="http://creativecommons.org/licenses/by/3.0">
+      <oc:lic_name>Attribution</oc:lic_name>
+      <oc:lic_vers>3</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by/3.0</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+</arch:project>
