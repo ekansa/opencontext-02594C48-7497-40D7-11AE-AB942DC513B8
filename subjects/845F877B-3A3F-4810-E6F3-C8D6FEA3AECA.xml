@@ -7,6 +7,20 @@
     <oc:name>Area</oc:name>
     <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/operation_area_50x50.jpg</oc:iconURI>
   </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>manual</oc:source>
+      </oc:obs_metadata>
+      <arch:notes>
+        <arch:note>
+          <arch:string type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">Excavation teams from the Institute of Archaeology and Ethnology, Polish Academy of Sciences and the Institute of Prehistory, University of Poznan worked in Area TP. This area is found just east of the 1960s Area A, at the southern crest of the East Mound.</div>
+          </arch:string>
+        </arch:note>
+      </arch:notes>
+    </arch:observation>
+  </arch:observations>
   <oc:context>
     <oc:tree id="default">
       <oc:parent href="http://opencontext.org/subjects/1_Global_Spatial">
@@ -3237,7 +3251,7 @@
   <oc:metadata>
     <dc:title>Çatalhöyük Area TP Zooarchaeology: Area TP (Area)</dc:title>
     <dc:publisher>Open Context</dc:publisher>
-    <dc:date>2013-03-03</dc:date>
+    <dc:date>2013-08-11</dc:date>
     <dc:subject>Area TP</dc:subject>
     <dc:subject>Animal Economy</dc:subject>
     <dc:subject>Çatalhöyük</dc:subject>
@@ -3250,7 +3264,7 @@
     <dc:creator href="http://opencontext.org/persons/FD2D702F-1EC6-4865-CCCC-DA8AF166CC83">Arek Marciniak</dc:creator>
     <dc:identifier>http://opencontext.org/subjects/845F877B-3A3F-4810-E6F3-C8D6FEA3AECA</dc:identifier>
     <oc:project_name href="http://opencontext.org/projects/02594C48-7497-40D7-11AE-AB942DC513B8">Çatalhöyük Area TP Zooarchaeology</oc:project_name>
-    <oc:pub_date>2013-03-03T00:00:00-07:00</oc:pub_date>
+    <oc:pub_date>2013-08-11T00:00:00-07:00</oc:pub_date>
     <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=%C3%87atalh%C3%B6y%C3%BCk+Area+TP+Zooarchaeology%3A+Area+TP+%28Area%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=Area+TP&amp;rft.subject=Animal+Economy&amp;rft.subject=%C3%87atalh%C3%B6y%C3%BCk&amp;rft.subject=Central+Anatolia&amp;rft.subject=Neolithic&amp;rft.subject=Mammal+Remains&amp;rft.subject=Faunal+data&amp;rft.subject=Zooarchaeology&amp;rft.subject=Turkey&amp;rft.creator=Arek+Marciniak&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2F845F877B-3A3F-4810-E6F3-C8D6FEA3AECA</oc:coins>
     <oc:geo_reference>
       <oc:geo_lat>37.668196</oc:geo_lat>
@@ -3268,10 +3282,10 @@
     </oc:copyright_lic>
   </oc:metadata>
   <oc:social_usage>
-    <oc:last_updated>2013-08-11T18:53:06-07:00</oc:last_updated>
+    <oc:last_updated>2013-08-14T01:11:08-07:00</oc:last_updated>
     <oc:item_views>
       <oc:count>1</oc:count>
-      <oc:view_time>2013/08/11 18:53:06</oc:view_time>
+      <oc:view_time>2013/08/14 01:11:08</oc:view_time>
     </oc:item_views>
     <oc:user_tags>
       <oc:tag type="chronological" status="public">
